@@ -24,7 +24,7 @@ export default function Logo() {
         <circle cx="28" cy="9" r="2" fill="#E5E0D9" />
       </svg>
       <span className="fh text-[20px] font-extrabold text-[#16233a] tracking-[-0.03em] leading-none">
-        rayoza<span className="text-[#2B5288]">.online</span>
+        si<span className="text-[#2B5288]">pulsa</span>
       </span>
     </Link>
   );
